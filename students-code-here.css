@@ -1,0 +1,28 @@
+.funny-glasses {
+    position: relative;
+    top: -108px;
+    right: -212px;
+}
+
+.bandana {
+    position: absolute;
+    top: 180px;
+    left: 109px;
+}
+
+.pawprint {
+    position: fixed;
+    top: 45px;
+    left: 65px;
+}
+
+.stick-corgi-corgi-luna {
+    position: sticky;
+    top: 0;
+    left: 0;
+}
+
+.top-hat {
+    position: relative;
+    z-index: 1;
+}
